@@ -1,11 +1,14 @@
 var testObject = {
   name: "test name",
-  age: 5
+  age: "t"
 };
 
 var testSchema = {
   name: {
     type: "string",
+    isValid: function(value){
+      return value === "test name1";
+    },
     message: "name is not valid"
   },
   age: {
