@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22179534-a286-4765-bb28-5b8f7495cf99" name="Default" comment="1. gulp eslint 기능 추가 테스트&#10;2. gulp 컴파일 테스트">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="22179534-a286-4765-bb28-5b8f7495cf99" name="Default" comment="1. gulp eslint 기능 추가 테스트&#10;2. gulp 컴파일 테스트" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/public/src/js/test1.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+              <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -439,7 +437,7 @@
       <updated>1523854105866</updated>
       <workItem from="1523854107109" duration="582000" />
       <workItem from="1524093996630" duration="10001000" />
-      <workItem from="1524456424740" duration="628000" />
+      <workItem from="1524456424740" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="1. gulp eslint 기능 추가 테스트&#10;2. gulp 컴파일 테스트">
       <created>1524114074562</created>
@@ -452,7 +450,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11211000" />
+    <option name="totallyTimeSpent" value="11232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -692,7 +690,7 @@
     <entry file="file://$PROJECT_DIR$/public/src/js/test1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
           <folding />
         </state>
       </provider>
